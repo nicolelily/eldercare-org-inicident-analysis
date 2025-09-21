@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Data and outputs (do not commit large data files)
+Data Analyst Case - Dataset.xlsx
+*.csv
+
+# Editor folders
+.vscode/
+.idea/
