@@ -1,6 +1,6 @@
 # Customer Insights Analysis
 
-This repository contains a take-home analysis script that reads incident and weight data from an Excel workbook and produces community-level insights and CSV exports.
+This repository contains a script that reads elder care community incident and weight data from an Excel workbook and produces community-level insights and CSV exports.
 
 Files produced by the script
 
